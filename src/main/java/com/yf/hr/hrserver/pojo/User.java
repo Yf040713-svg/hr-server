@@ -7,6 +7,7 @@ public class User {
     private Integer gender;
     private String phone;
 
+
     public Integer getId() { return id; }
     public void setId(Integer id) { this.id = id; }
 
